@@ -1,5 +1,9 @@
 # 561-Code
 
+## Purpose
+
+This is a small-scale simulation to test out how well end hosts could learn optimal routing parameters given stochastic network conditions and competition for resources. It isn't really a realistic simulation, but a first step for potential further study. This was a final project for Princeton's COS-561 networking course. The simulator framework was written by myself, the learning algorithm was written and developed by myself and Zheng Shi, and the optimization algorithm was written and developed by myself and Uthsav Chitara.
+
 ## Program usage
 
 This program is used by call the main function with 3 arguments: the number of times steps you wish to run a simulation for, the name of a configuration file with the simulation parameters, and the name of the output file.
